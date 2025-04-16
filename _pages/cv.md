@@ -11,26 +11,16 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* M.S. in CS, Beijing Institute of Technology, 2024.9-2027.6
+* B.S. in CS, Beijing Institute of Technology, 2020.10-2024.6
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Spring 2024 - Now : Internship
+  * Shanghai Artificial Intelligence Laboratory
+  * Duties includes: Research Intern
+  * Supervisor: Huaping Zhong, Conghui He
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
   
 Skills
 ======
